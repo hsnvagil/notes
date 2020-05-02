@@ -1,0 +1,9 @@
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\bin\Debug\cache.dll
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\bin\Debug\cache.pdb
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\obj\Debug\cache.csprojAssemblyReference.cache
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\obj\Debug\cache.csproj.CoreCompileInputs.cache
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\obj\Debug\cache.csproj.CopyComplete
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\obj\Debug\cache.dll
+C:\Users\Agil Hasanov\Desktop\source\repos\notes\cache\obj\Debug\cache.pdb
